@@ -1,5 +1,9 @@
 # RTK_ST-Link-Download
-LabVIEW实现ST-Link自动烧录
+## LabVIEW实现ST-Link自动烧录
+
+* LabVIEW：2015
+---
+
 还记得刚毕业那会弄过一台测试设备，测试空调主板功能，测试前需要进行固件烧录，其中用到的主控芯片就是STM32Fxxx，具体型号不记得了，当时是哪种方式去实现的也不太记得了，现在又需要解决STM32F4xx的芯片自动烧录问题，索性整理成档便于以后查阅。
 
 用ST官方提供的一个工具即可实现，那就是ST-Link utility，使用简单下载方便。
@@ -113,6 +117,20 @@ LabVIEW实现ST-Link自动烧录
 
 ![image](https://user-images.githubusercontent.com/29085487/229339602-b5c27ff2-5e46-4e6a-af00-e0cb6f43c751.png)
 
+
+
+---
+### 联系作者
+
+作者：Retry Zheng
+
+电话：15072344997
+
+微信公众号：LabVIEW QT修炼之路
+
+邮箱：retryzheng@163.com / retryzheng@gmail.com
+
+![qrcode_for_gh_bf09ed5c2eec_258](https://user-images.githubusercontent.com/29085487/229339816-40ea8bd8-b64e-48c7-9bec-9ce7f66f5b9c.jpg)![Retry](https://user-images.githubusercontent.com/29085487/229339925-52b958a1-c1f5-4d4e-afbe-201f2016db89.jpg)
 
 
 
